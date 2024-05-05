@@ -274,6 +274,7 @@ a {
   margin: 0; 
   align-content: center;
   text-align: center;
+  align-self: center;
 }
 
 .flex-three::after, .flex-four::after {
